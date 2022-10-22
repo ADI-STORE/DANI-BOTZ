@@ -50,7 +50,7 @@ global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 081352848936\n│┝‷✧ *Dana:* 081251549899\n│┝‷✧ *Gopay:* 081352848936\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285790542593' //Nomor Bot mu
+global.nomorbot = '6282398074198' //Nomor Bot mu
 global.nomorown = '6287841959988' //Nomormu
 global.namebot = 'Dani BOT' //Nama bot mu
 global.nameown = 'DaniXd' //Nama mu
