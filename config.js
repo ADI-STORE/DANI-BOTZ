@@ -90,7 +90,7 @@ global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
   ['6287841959988'], //Owner1
-  ['6281348106274'], //Owner2
+  ['6285790542593'], //Owner2
   ['6282398074198'], //Owner3
   ['6287841959988', 'DANI ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
