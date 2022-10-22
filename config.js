@@ -50,8 +50,8 @@ global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 081352848936\n│┝‷✧ *Dana:* 081251549899\n│┝‷✧ *Gopay:* 081352848936\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281352848936' //Nomor Bot mu
-global.nomorown = '6281251549899' //Nomormu
+global.nomorbot = '6285790542593' //Nomor Bot mu
+global.nomorown = '6287841959988' //Nomormu
 global.namebot = 'Dani BOT' //Nama bot mu
 global.nameown = 'DaniXd' //Nama mu
 
@@ -89,10 +89,10 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281251549899'], //Owner1
+  ['6287841959988'], //Owner1
   ['6281348106274'], //Owner2
-  ['6281352848936'], //Owner3
-  ['6281251549899', 'DANI ! 🥶', true] //Ini buat kamu!
+  ['6282398074198'], //Owner3
+  ['6287841959988', 'DANI ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
